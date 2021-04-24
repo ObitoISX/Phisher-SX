@@ -5,4 +5,4 @@
     </p>
         < A  href = " https://github.com/ObitoISX/ " > < img  título = "Autor"     src = " https://img.shields.io/badge/Author-ObitoISX-purple.svg?style=for -the-badge & logo = github " > </ a >
     </ p >
-   href = " https://github.com/adiwajshing/Baileys "> <img alt = "GitHub" src = " https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011 . svg? & style = for-the-badge & logo = github & logoColor = white "/>   </a>
+href="https://github.com/adiwajshing/Baileys"> <img alt = "GitHub" src = "https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011. svg? & style = for-the-badge & logo = github & logoColor = white "/> </a>
