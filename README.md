@@ -5,4 +5,5 @@
     </p>
         <a href="https://github.com/ObitoISX/"><img title="Author"    src="https://img.shields.io/badge/Author-ObitoISX-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
-<a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"> <img alt = "WhatsApp" src = "https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for -the-badge & logo = whatsapp & logoColor = white "/> </a>
+## Agradecimentos especiais para
+* <a href="https://github.com/adiwajshing/Baileys"> <img alt = "GitHub" src = "https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011. svg? & style = for-the-badge & logo = github & logoColor = white "/> </a>
