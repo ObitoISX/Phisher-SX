@@ -12,11 +12,16 @@ copie e cole os comandos a baixo no
 termux na orde que está!
 
 ```bash
-> apt update && apt upgrade 
+> apt update && apt upgrade
+
 > apt install git php openssh curl -y
+
 > git clone https://github.com/ObitoISX/Phisher-SX.git
+
 > cd Phisher-SX
+
 > chmod +x obito.sh
+
 > bash OBITOISX.sh
 
 Para voutar a ferramenta depois de instalada :
