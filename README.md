@@ -7,22 +7,24 @@
     </p>
 </h1>
 
-## Instalação
-
+## Para Instalar :
 copie e cole os comandos a baixo no
-termux na orde que está. 
+termux na orde que está!
 
-1: apt update && apt upgrade 
+```bash
+> apt update && apt upgrade 
+> apt install git php openssh curl -y
+> git clone https://github.com/ObitoISX/Phisher-SX.git
+> cd Phisher-SX
+> chmod +x obito.sh
+> bash OBITOISX.sh
 
-2: apt install git php openssh curl -y
+Para voutar a ferramenta depois de instalada :
 
-3: git clone https://github.com/ObitoISX/Phisher-SX.git
+> cd Phisher-SX
 
-4: cd Phisher-SX
-
-5: chmod +x obito.sh
-
-6: bash OBITOISX.sh
+> bash OBITOISX.sh
+```
 </h1>
 
 ## Grupo 
