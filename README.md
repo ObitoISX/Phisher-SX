@@ -18,7 +18,7 @@ termux na orde que está!
 
 > git clone https://github.com/ObitoISX/Phisher-SX.git
 
-> cd Phisher-SX
+>cd Phisher-SX
 
 > chmod +x obito.sh
 
