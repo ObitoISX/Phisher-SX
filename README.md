@@ -7,7 +7,7 @@
     </p>
 </h1>
 
-          𝑰𝑵𝑺𝑻𝑨𝑳𝑨𝑪𝑨𝑶
+## Instalação
 
 copie e cole os comandos a baixo no
 termux na orde que está. 
@@ -25,6 +25,6 @@ termux na orde que está.
 6: bash OBITOISX.sh
 </h1>
 
-## Group
-* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## Grupo 
+* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/Grupo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
