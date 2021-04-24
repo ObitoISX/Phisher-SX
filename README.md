@@ -26,5 +26,5 @@ termux na orde que está.
 </h1>
 
 ## Grupo 
-* <a href="https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v"><img alt="WhatsApp" src="https://img.shields.io/badge/Grupo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/FRrVC8oJN1O5ZdmqOjvzBZ"><img alt="WhatsApp" src="https://img.shields.io/badge/Grupo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
